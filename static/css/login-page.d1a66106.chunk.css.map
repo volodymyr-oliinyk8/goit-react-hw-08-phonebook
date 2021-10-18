@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/Page.module.css"],"names":[],"mappings":"AAIA,sBACE,aACF,CACA,kBACE,YAAa,CACb,4BAA6B,CAC7B,eACF","file":"login-page.d1a66106.chunk.css","sourcesContent":[".title {\r\n  color: yellowgreen;\r\n}\r\n\r\nh1 {\r\n  color: yellowgreen;\r\n}\r\n.form {\r\n  display: flex;\r\n  justify-content: space-around;\r\n  margin-top: 50px;\r\n}\r\n"]}
