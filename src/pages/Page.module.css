@@ -1,0 +1,12 @@
+.title {
+  color: yellowgreen;
+}
+
+h1 {
+  color: yellowgreen;
+}
+.form {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}

@@ -1,0 +1,12 @@
+.div {
+  display: flex;
+  margin-left: auto;
+  color: #0a988f;
+  font-size: 24px;
+  align-items: center;
+}
+
+.div p {
+  margin-right: 15px;
+  margin-left: 15px;
+}
